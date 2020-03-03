@@ -1,0 +1,11 @@
+D:\VisualStudia\NewCours\NewCours\NewCours\bin\Debug\netcoreapp3.1\NewCours.exe
+D:\VisualStudia\NewCours\NewCours\NewCours\bin\Debug\netcoreapp3.1\NewCours.deps.json
+D:\VisualStudia\NewCours\NewCours\NewCours\bin\Debug\netcoreapp3.1\NewCours.runtimeconfig.json
+D:\VisualStudia\NewCours\NewCours\NewCours\bin\Debug\netcoreapp3.1\NewCours.runtimeconfig.dev.json
+D:\VisualStudia\NewCours\NewCours\NewCours\bin\Debug\netcoreapp3.1\NewCours.dll
+D:\VisualStudia\NewCours\NewCours\NewCours\bin\Debug\netcoreapp3.1\NewCours.pdb
+D:\VisualStudia\NewCours\NewCours\NewCours\obj\Debug\netcoreapp3.1\NewCours.csprojAssemblyReference.cache
+D:\VisualStudia\NewCours\NewCours\NewCours\obj\Debug\netcoreapp3.1\NewCours.AssemblyInfoInputs.cache
+D:\VisualStudia\NewCours\NewCours\NewCours\obj\Debug\netcoreapp3.1\NewCours.AssemblyInfo.cs
+D:\VisualStudia\NewCours\NewCours\NewCours\obj\Debug\netcoreapp3.1\NewCours.dll
+D:\VisualStudia\NewCours\NewCours\NewCours\obj\Debug\netcoreapp3.1\NewCours.pdb
