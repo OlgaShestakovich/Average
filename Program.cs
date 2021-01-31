@@ -8,7 +8,7 @@ namespace NewCours
         {
 
             //****************************************************Arithmetic mean of two numbers
-
+//* Test
             Console.WriteLine("Нахождение среднего арифметического\n");
            
             Console.WriteLine("Введите первое значение: ");
